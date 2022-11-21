@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI Mancala Interface", "AI Mancala Interface\AI Mancala Interface.csproj", "{2F9279A3-E346-46E8-B90E-722FD87FD19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F9279A3-E346-46E8-B90E-722FD87FD19F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9279A3-E346-46E8-B90E-722FD87FD19F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{2F9279A3-E346-46E8-B90E-722FD87FD19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9279A3-E346-46E8-B90E-722FD87FD19F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CBD08DD-DFD0-4827-AC77-16AD207CE583}
+	EndGlobalSection
+EndGlobal

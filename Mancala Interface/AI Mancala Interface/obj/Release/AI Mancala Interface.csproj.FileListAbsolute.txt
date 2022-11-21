@@ -1,0 +1,48 @@
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe.config
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.pdb
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.AssemblyReference.cache
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form1.resources
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Properties.Resources.resources
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.GenerateResource.cache
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.CoreCompileInputs.cache
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.exe
+C:\Users\logan\Downloads\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.pdb
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe.config
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.pdb
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form1.resources
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Properties.Resources.resources
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.GenerateResource.cache
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.CoreCompileInputs.cache
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.exe
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.pdb
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.AssemblyReference.cache
+C:\Users\tsiga\source\repos\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form2.resources
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe.config
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.pdb
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form1.resources
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form2.resources
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form3.resources
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form4.resources
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Properties.Resources.resources
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.GenerateResource.cache
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.CoreCompileInputs.cache
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.exe
+C:\Users\tsiga\source\repos\Mancala Interface\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.pdb
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.exe.config
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.AssemblyReference.cache
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form1.resources
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form2.resources
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form3.resources
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Form4.resources
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI_Mancala_Interface.Properties.Resources.resources
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.GenerateResource.cache
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.csproj.CoreCompileInputs.cache
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.exe
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\obj\Release\AI Mancala Interface.pdb
+C:\Users\tsiga\source\repos\Mancala Interface(Final)\AI Final Project (1)\Mancala Interface\AI Mancala Interface\bin\Release\AI Mancala Interface.pdb
